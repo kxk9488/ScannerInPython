@@ -1,0 +1,4 @@
+cd c://python27
+pause
+python SebestaScanner.py "front.in"
+pause
